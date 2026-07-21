@@ -12,3 +12,5 @@ Nexus Technologies Contribution
 Nexus Technologies designed and developed the complete WordPress eCommerce website, delivering a responsive, SEO-optimized, and performance-focused solution that enhances the brand's online presence, improves user engagement, and provides a fast, secure, and scalable shopping experience across all devices.
 
 https://shehminas.com/
+
+![Shehminas eCommerce Preview](./shehminas.png)
